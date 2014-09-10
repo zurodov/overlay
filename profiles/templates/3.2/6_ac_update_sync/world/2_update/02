@@ -1,6 +1,6 @@
-# Calculate format=world name=world ini(update-zur.world)<2
+# Calculate format=world name=world ini(update-zurodov.world)<2
 
-#-ini(update-zur.world,2)-#
+#-ini(update-zurodov.world,2)-#
 
 #?os_linux_pkglist==Desktop-X#
 dev-vcs/tig
