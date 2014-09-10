@@ -1,4 +1,4 @@
-~dev-vcs/tig           amd64
-~net-dns/noip-updater  amd64
-~media-gfx/geeqie      amd64
-~www-client/opera      amd64
+~dev-vcs/tig-1.2.1                 amd64
+~net-dns/noip-updater-2.1.9-r1     amd64
+~media-gfx/geeqie-1.0-r4           amd64
+~www-client/opera-12.16_p1860-r1   amd64
