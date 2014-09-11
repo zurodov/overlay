@@ -1,0 +1,9 @@
+# Calculate format=world name=world ini(update-zurodov.world)<3
+
+#-ini(update-zurodov.world,3)-#
+
+#?os_linux_pkglist==Desktop-X#
+!net-dns/noip-updater
+!sys-apps/calculate-client
+!sys-auth/nss_ldap
+#os_linux_pkglist#

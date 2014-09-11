@@ -2,6 +2,5 @@
 
 #?in(os_linux_pkglist, Desktop-X)!=#
 dev-vcs/tig
-net-dns/noip-updater
 media-gfx/geeqie
 #in#
