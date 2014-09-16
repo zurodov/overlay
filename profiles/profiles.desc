@@ -11,7 +11,7 @@
 amd64		Desktop-X/amd64					stable
 
 # AMD64 Profiles
-amd64		Notebook-X/amd64					stable
+amd64		Notebook-X/amd64				stable
 
 # vim: set ts=8
 

@@ -1,6 +1,9 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, Desktop-X)!=#
+#?in(os_linux_pkglist, Desktop-X, Notebook-X)!=#
 dev-vcs/tig
 media-gfx/geeqie
+#in#
+#?in(os_linux_pkglist, Desktop-X)!=#
+net-dns/noip-updater
 #in#
