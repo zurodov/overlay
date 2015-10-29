@@ -1,2 +1,2 @@
-app-shells/zsh              amd64
+=app-shells/zsh-5*              amd64
 ~app-shells/zsh-completions-0.12.0-r2              amd64
