@@ -1,0 +1,10 @@
+# Calculate format=world name=world ini(overlay-zurodov.world)<2
+
+#-ini(overlay-zurodov.world,2)-#
+
+#?in(os_linux_pkglist, Desktop-X)!=#
+app-shells/zsh-completions
+app-misc/mc
+app-editors/vim
+!app-editors/nano
+#in#
