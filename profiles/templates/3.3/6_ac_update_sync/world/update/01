@@ -2,7 +2,6 @@
 
 #-ini(overlay-zurodov.world,1)-#
 
-#?os_linux_pkglist==Desktop-X#
+#?in(os_linux_pkglist, Desktop-X)!=#
 app-shells/zsh
-www-client/opera
-#os_linux_pkglist#
+#in#

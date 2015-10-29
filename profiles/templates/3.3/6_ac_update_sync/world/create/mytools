@@ -1,6 +1,5 @@
 # Calculate name=world format=world
 
-#?in(os_linux_pkglist, Desktop-X)!=#
+#?in(os_linux_pkglist, Test-X)!=#
 app-shells/zsh
-www-client/opera
 #in#
