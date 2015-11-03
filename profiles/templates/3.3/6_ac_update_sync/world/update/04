@@ -1,0 +1,11 @@
+# Calculate format=world name=world ini(overlay-zurodov.world)<4
+
+#-ini(overlay-zurodov.world,4)-#
+
+#?in(os_linux_pkglist, Test-X)!=#
+x11-misc/lightdm
+x11-misc/lightdm-gtk-greeter
+###x11-misc/lightdm-themes-calculate
+www-client/opera
+!x11-terms/rxvt-unicode
+#in#
