@@ -1,4 +1,5 @@
 ###CL="assemble builder desktop console consolegui"
+VIDEO_CARDS="intel vesa"
 THEMES="CLDX"
 EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS} --ask --verbose"
 
