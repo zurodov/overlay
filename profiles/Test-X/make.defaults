@@ -1,0 +1,4 @@
+###CL="assemble builder desktop console consolegui"
+THEMES="CLDX"
+EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS} --ask --verbose
+
