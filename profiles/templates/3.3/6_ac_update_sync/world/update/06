@@ -23,7 +23,6 @@ net-p2p/deluge
 net-im/pidgin
 app-office/libreoffice-bin
 app-text/fbreader
-###media-sound/banshee
 media-video/smplayer
 #
 sys-apps/dmidecode
