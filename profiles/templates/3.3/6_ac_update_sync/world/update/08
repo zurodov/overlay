@@ -1,0 +1,7 @@
+# Calculate format=world name=world ini(overlay-zurodov.world)<8
+
+#-ini(overlay-zurodov.world,8)-#
+
+#?in(os_linux_pkglist, Test-X)!=#
+app-emulation/virtualbox-extpack-oracle
+#in#
