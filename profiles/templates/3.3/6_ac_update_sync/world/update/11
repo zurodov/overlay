@@ -1,0 +1,7 @@
+# Calculate format=world name=world ini(overlay-zurodov.world)<11
+
+#-ini(overlay-zurodov.world,11)-#
+
+#?in(os_linux_pkglist, Test-X)!=#
+net-misc/ntp
+#in#

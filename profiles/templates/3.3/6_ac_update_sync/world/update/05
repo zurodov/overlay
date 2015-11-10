@@ -1,8 +1,0 @@
-# Calculate format=world name=world ini(overlay-zurodov.world)<5
-
-#-ini(overlay-zurodov.world,5)-#
-
-#?in(os_linux_pkglist, Test-X)!=#
-media-gfx/lightdm-themes-calculate
-!net-fs/nfs-utils
-#in#

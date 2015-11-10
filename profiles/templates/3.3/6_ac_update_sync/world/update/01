@@ -1,7 +1,0 @@
-# Calculate format=world name=world ini(overlay-zurodov.world)<1
-
-#-ini(overlay-zurodov.world,1)-#
-
-#?in(os_linux_pkglist, Test-X)!=#
-app-shells/zsh
-#in#
