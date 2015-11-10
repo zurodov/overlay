@@ -1,5 +1,5 @@
 CL="assemble builder desktop console consolegui"
 THEMES="CLDX"
 USE="${USE} -systemd"
-EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS} --ask --verbose"
+EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS} --ask --verbose --jobs=1"
 
