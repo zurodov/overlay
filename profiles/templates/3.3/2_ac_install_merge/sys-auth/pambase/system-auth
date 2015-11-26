@@ -1,0 +1,14 @@
+# Calculate chmod=0644 chown=root:root comment=#
+auth       required     pam_env.so
+auth       optional     pam_keystore.so
+auth       required     pam_unix.so use_first_pass
+auth       optional     pam_ecryptfs.so unwrap
+
+account    required     pam_unix.so
+
+password   required     pam_cracklib.so difok=2 minlen=8 dcredit=2 ocredit=2 retry=3
+password   required     pam_unix.so nullok sha256 shadow use_authtok
+
+session    required     pam_limits.so
+session    required     pam_unix.so
+session    optional     pam_ecryptfs.so unwrap
