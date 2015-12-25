@@ -1,0 +1,7 @@
+# Calculate format=world name=world ini(overlay-zurodov.world)<12
+
+#-ini(overlay-zurodov.world,12)-#
+
+#?in(os_linux_pkglist, CLDZ)!=#
+xfce-extra/xfce4-xkb-plugin
+#in#
