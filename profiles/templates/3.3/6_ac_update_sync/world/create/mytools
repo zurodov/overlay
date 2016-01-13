@@ -20,6 +20,7 @@ sys-fs/ntfs3g
 sys-fs/dosfstools
 sys-fs/exfat-utils
 sys-fs/fuse-exfat
+sys-fs/fuseiso
 sys-fs/mtools
 sys-fs/xfsprogs
 dev-util/strace
@@ -68,6 +69,7 @@ xfce-extra/xfce4-quicklauncher-plugin
 xfce-extra/xfce4-screenshooter
 xfce-extra/xfce4-taskmanager
 xfce-extra/xfce4-xkb-plugin
+xfce-extra/tumbler
 x11-misc/lightdm
 x11-misc/lightdm-gtk-greeter
 x11-misc/light-locker
@@ -78,6 +80,7 @@ x11-plugins/purple-plugin_pack
 x11-terms/xfce4-terminal
 x11-themes/gtk-engines
 x11-themes/xfwm4-themes
+x11-themes/elementary-icon-theme
 sci-calculators/galculator
 media-gfx/lightdm-themes-calculate
 media-gfx/calculate-wallpapers
@@ -122,6 +125,7 @@ net-misc/tightvnc
 net-firewall/shorewall
 net-misc/ntp
 net-misc/networkmanager
+net-misc/openvpn
 net-misc/whois
 !net-fs/nfs-utils
 #
