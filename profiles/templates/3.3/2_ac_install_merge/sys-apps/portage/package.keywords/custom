@@ -1,17 +1,18 @@
 # required by =media-gfx/rawtherapee-4.2 (argument)
-##=media-gfx/rawtherapee-4.2 ~amd64
+=media-gfx/rawtherapee-4.2 ~amd64
 # required by =media-gfx/darktable-1.6.9 (argument)
-##=media-gfx/darktable-1.6.9 ~amd64
+=media-gfx/darktable-1.6.9 ~amd64
 # required by app-admin/conkyforecast (argument)
-##=app-admin/conkyforecast-2.24-r1 ~amd64
+=app-admin/conkyforecast-2.24-r1 ~amd64
 # required by app-emulation/wine-1.7.55 (argument)
-##=app-emulation/winetricks-20151116 ~amd64
-##=app-emulation/wine-1.7.55 ~amd64
+=app-emulation/winetricks-20160109 ~amd64
+=app-emulation/wine-1.7.55 ~amd64
 
 # required by =virtual/jdk-1.8.0 (argument)
-##=virtual/jdk-1.8.0 ~amd64
+=virtual/jdk-1.8.0 ~amd64
 # required by =virtual/jre-1.8.0 (argument)
-#########=virtual/jre-1.8.0 ~amd64
+=virtual/jre-1.8.0 ~amd64
 
 # gdb 7.8
 =sys-devel/gdb-7.8.2 ~amd64
+=dev-util/ddd-3.3.12-r4 ~amd64
