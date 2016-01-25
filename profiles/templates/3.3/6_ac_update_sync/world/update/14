@@ -1,0 +1,7 @@
+# Calculate format=world name=world ini(overlay-zurodov.world)<14
+
+#-ini(overlay-zurodov.world,14)-#
+
+#?in(os_linux_pkglist, CLDZ)!=#
+net-misc/networkmanager-pptp
+#in#
