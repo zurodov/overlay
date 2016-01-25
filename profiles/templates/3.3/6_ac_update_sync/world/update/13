@@ -1,0 +1,7 @@
+# Calculate format=world name=world ini(overlay-zurodov.world)<13
+
+#-ini(overlay-zurodov.world,13)-#
+
+#?in(os_linux_pkglist, CLDZ)!=#
+x11-libs/gksu
+#in#
