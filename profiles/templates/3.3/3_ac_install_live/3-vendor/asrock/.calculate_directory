@@ -1,1 +1,1 @@
-# Calculate append=skip replace("\x20","_",main.hr_board_vendor)==ASRock
+# Calculate append=skip hr_board_vendor==ASRock
