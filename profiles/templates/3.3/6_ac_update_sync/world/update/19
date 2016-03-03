@@ -1,0 +1,7 @@
+# Calculate format=world name=world ini(overlay-zurodov.world)<19
+
+#-ini(overlay-zurodov.world,19)-#
+
+#?in(os_linux_pkglist, CLDZ)!=#
+net-ftp/vsftpd
+#in#

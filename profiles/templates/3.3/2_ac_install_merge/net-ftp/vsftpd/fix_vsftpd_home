@@ -1,0 +1,8 @@
+# Calculate exec=/bin/bash cl_merge_pkg!=
+
+echo "Fix vsftpd home location"
+cd /home && mv ftp /var/calculate
+sed -i '/ftp/s/home/var\/calculate/' /etc/passwd
+pwconv
+true
+
