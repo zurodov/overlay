@@ -1,5 +1,3 @@
-# apcupsd required
-##sys-apps/util-linux tty-helpers
 # vorax required
 app-editors/vim ruby python
 # conky required
@@ -8,6 +6,6 @@ app-admin/conky apcupsd iostats weather-metar weather-xoap
 media-libs/libcanberra sound
 xfce-base/xfce4-settings libcanberra
 # kernel stuff
-sys-kernel/calculate-sources -minimal -vmlinuz
+sys-kernel/calculate-sources -minimal -vmlinuz -grub
 # vim c-ide required
-sys-devel/llvm clang
+##sys-devel/llvm clang
