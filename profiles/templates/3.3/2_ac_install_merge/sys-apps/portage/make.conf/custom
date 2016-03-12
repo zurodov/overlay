@@ -1,4 +1,4 @@
-INPUT_DEVICES="${INPUT_DEVICES} virtualbox"
+INPUT_DEVICES="${INPUT_DEVICES} wacom"
 
 ALSA_CARDS="hda-intel intel8x0 usb-audio"
 
