@@ -1,0 +1,7 @@
+INPUT_DEVICES="${INPUT_DEVICES} virtualbox"
+
+ALSA_CARDS="hda-intel intel8x0 usb-audio"
+
+GPSD_PROTOCOLS=""
+LCD_DEVICES=""
+APACHE2_MODULES=""
