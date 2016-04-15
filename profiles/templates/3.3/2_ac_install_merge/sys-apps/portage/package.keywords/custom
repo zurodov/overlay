@@ -4,6 +4,3 @@
 # required by jdk/jre-1.8.x
 =virtual/jdk-1.8.0 ~amd64
 =virtual/jre-1.8.0 ~amd64
-
-# gdb 7.8
-=sys-devel/gdb-7.8.2 ~amd64

@@ -6,6 +6,6 @@ app-admin/conky apcupsd iostats weather-metar weather-xoap
 media-libs/libcanberra sound
 xfce-base/xfce4-settings libcanberra
 # kernel stuff
-sys-kernel/calculate-sources -minimal -vmlinuz -grub
+sys-kernel/calculate-sources -minimal -vmlinuz
 # vim c-ide required
 ##sys-devel/llvm clang

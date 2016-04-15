@@ -2,6 +2,8 @@ INPUT_DEVICES="evdev keyboard mouse wacom"
 
 ALSA_CARDS="hda-intel intel8x0 usb-audio"
 
+KERNELNAME="zur"
+
 GPSD_PROTOCOLS=""
 LCD_DEVICES=""
 APACHE2_MODULES=""

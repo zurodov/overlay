@@ -1,12 +1,16 @@
+# Calculate comment=#
 #app-emulation/virtualbox-additions
-#media-gfx/darktable
-#app-shells/gentoo-bashcomp
+media-gfx/darktable
+app-shells/gentoo-bashcomp
 #net-dns/noip-updater
 #sys-power/apcupsd
-#app-admin/conky
+app-admin/conky
 #app-emulation/wine
 #app-emulation/winetricks
 #app-emulation/q4wine
 dev-db/oracle-instantclient-sqlplus
 dev-java/oracle-jdk-bin
 #media-gfx/nomacs
+#?ini(hr_virtual)==virtualbox#
+# test
+#ini#
