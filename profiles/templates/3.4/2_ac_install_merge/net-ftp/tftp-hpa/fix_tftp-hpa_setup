@@ -1,0 +1,12 @@
+# Calculate exec=/bin/bash cl_merge_pkg!=
+
+echo "Fix tftp-hpa setup"
+
+sed -i '/server_args/s/tftpboot/var\/calculate\/tftpboot/' /etc/xinetd.d/tftp
+
+if [[ -f "/var/calculate/tftpboot" ]] then
+   mkdir /var/calculate/tftpboot
+fi
+
+sed -i '/tftpboot/s/tftpboot/var\/calculate\/tftpboot/' /etc/conf.d/in.tftpd
+sed -i '/tftpboot/s/^#//' /etc/conf.d/in.tftpd

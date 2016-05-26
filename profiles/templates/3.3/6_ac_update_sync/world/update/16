@@ -1,7 +1,0 @@
-# Calculate format=world name=world ini(overlay-zurodov.world)<16
-
-#-ini(overlay-zurodov.world,16)-#
-
-#?in(os_linux_pkglist, CLDZ)!=#
-dev-vcs/tig
-#in#

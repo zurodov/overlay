@@ -1,8 +1,0 @@
-# Calculate format=world name=world ini(overlay-zurodov.world)<15
-
-#-ini(overlay-zurodov.world,15)-#
-
-#?in(os_linux_pkglist, CLDZ)!=#
-!net-misc/networkmanager-pptp
-net-dialup/pptpclient
-#in#

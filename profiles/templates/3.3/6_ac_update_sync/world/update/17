@@ -1,7 +1,0 @@
-# Calculate format=world name=world ini(overlay-zurodov.world)<17
-
-#-ini(overlay-zurodov.world,17)-#
-
-#?in(os_linux_pkglist, CLDZ)!=#
-x11-themes/calculate-icon-theme
-#in#

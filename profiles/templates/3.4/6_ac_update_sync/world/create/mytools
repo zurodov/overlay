@@ -1,4 +1,4 @@
-# Calculate name=world format=world
+# Calculate name=world format=world in(os_linux_pkglist,calculate)!=
 
 #?in(os_linux_pkglist, Test-X, CLDZ)!=#
 #
@@ -37,7 +37,9 @@ sys-apps/gptfdisk
 sys-apps/mlocate
 sys-apps/pv
 sys-apps/usb_modeswitch
+dev-vcs/tig
 sys-devel/gdb
+dev-util/cgdb
 sys-devel/prelink
 
 sys-process/htop
@@ -81,6 +83,8 @@ x11-terms/xfce4-terminal
 x11-themes/gtk-engines
 x11-themes/xfwm4-themes
 x11-themes/elementary-icon-theme
+x11-themes/calculate-icon-theme
+x11-libs/gksu
 sci-calculators/galculator
 media-gfx/lightdm-themes-calculate
 media-gfx/calculate-wallpapers
@@ -126,6 +130,7 @@ net-firewall/shorewall
 net-misc/ntp
 net-misc/networkmanager
 net-misc/openvpn
+net-dialup/pptpclient
 net-misc/whois
 !net-fs/nfs-utils
 #

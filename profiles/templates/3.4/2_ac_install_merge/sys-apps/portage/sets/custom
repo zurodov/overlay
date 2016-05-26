@@ -12,5 +12,5 @@ dev-db/oracle-instantclient-sqlplus
 dev-java/oracle-jdk-bin
 #media-gfx/nomacs
 #?ini(hr_virtual)==virtualbox#
-# test
+app-editors/nano
 #ini#

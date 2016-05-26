@@ -1,7 +1,0 @@
-# Calculate format=world name=world ini(overlay-zurodov.world)<18
-
-#-ini(overlay-zurodov.world,18)-#
-
-#?in(os_linux_pkglist, CLDZ)!=#
-dev-util/cgdb
-#in#
