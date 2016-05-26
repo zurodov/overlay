@@ -111,7 +111,7 @@ net-irc/hexchat
 # multimedia
 #
 media-gfx/geeqie
-app-office/libreoffice-bin
+app-office/libreoffice
 app-text/fbreader
 app-text/qpdfview
 media-video/smplayer
