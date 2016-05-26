@@ -102,6 +102,7 @@ www-client/chromium
 www-plugins/chrome-ublock
 www-plugins/chrome-binary-plugins
 www-client/lynx
+www-client/links
 mail-client/claws-mail
 net-p2p/deluge
 net-im/pidgin
