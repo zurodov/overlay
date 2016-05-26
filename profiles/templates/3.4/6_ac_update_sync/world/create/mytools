@@ -5,7 +5,7 @@
 # systools
 #
 app-shells/zsh
-app-shells/zsh-completions
+app-shells/gentoo-zsh-completions
 app-shells/bash-completion
 app-misc/mc
 app-editors/vim
