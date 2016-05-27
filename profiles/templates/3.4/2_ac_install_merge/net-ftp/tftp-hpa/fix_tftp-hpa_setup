@@ -10,3 +10,4 @@ if [[ ! -f "/var/calculate/tftpboot" ]] then
    mkdir /var/calculate/tftpboot
 fi
 
+exit 0
