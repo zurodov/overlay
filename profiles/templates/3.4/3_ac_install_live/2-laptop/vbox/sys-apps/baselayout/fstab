@@ -5,5 +5,5 @@
 
 proc		/proc		proc	defaults		0 0
 shm		/dev/shm	tmpfs	nodev,nosuid,noexec	0 0
-none            /var/calculate/tmp tmpfs   mode=1777,size=2G    0 0
+none            /var/calculate/tmp tmpfs   mode=1777,size=3G    0 0
 
