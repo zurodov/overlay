@@ -1,8 +1,8 @@
-INPUT_DEVICES="evdev keyboard mouse wacom"
+INPUT_DEVICES="evdev keyboard mouse synaptics wacom"
 
 ALSA_CARDS="hda-intel intel8x0 usb-audio"
 
-KERNELNAME="zur"
+##KERNELNAME="zur"
 
 GPSD_PROTOCOLS=""
 LCD_DEVICES=""
