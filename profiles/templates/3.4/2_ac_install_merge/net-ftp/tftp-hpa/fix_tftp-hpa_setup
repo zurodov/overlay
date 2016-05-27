@@ -2,9 +2,9 @@
 
 echo "Fix tftp-hpa setup"
 
-sed -i '/server_args/s/tftpboot/var\/calculate\/tftpboot/' /etc/xinetd.d/tftp
-sed -i '/tftpboot/s/tftpboot/var\/calculate\/tftpboot/' /etc/conf.d/in.tftpd
 sed -i '/tftpboot/s/^#//' /etc/conf.d/in.tftpd
+sed -i '/tftpboot/s/tftpboot/var\/calculate\/tftpboot/' /etc/conf.d/in.tftpd
+sed -i '/server_args/s/tftpboot/var\/calculate\/tftpboot/' /etc/xinetd.d/tftp
 
 if [[ ! -d "/var/calculate/tftpboot" ]];  then
    mkdir /var/calculate/tftpboot
