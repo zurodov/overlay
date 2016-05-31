@@ -133,7 +133,10 @@ net-misc/networkmanager
 net-misc/openvpn
 net-dialup/pptpclient
 net-misc/whois
+net-ftp/vsftpd
+net-ftp/tftp-hpa
 !net-fs/nfs-utils
+!net-wireless/broadcom-sta
 #
 app-emulation/virtualbox
 app-emulation/virtualbox-extpack-oracle
