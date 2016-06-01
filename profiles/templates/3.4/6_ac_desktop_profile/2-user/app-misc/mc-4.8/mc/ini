@@ -1,0 +1,12 @@
+# Calculate format=kde
+
+[Midnight-Commander]
+skin=/home/#-ur_login-#/.config/mc/skins/modarin256-defbg.ini
+
+[Layout]
+menubar_visible=0
+message_visible=0
+keybar_visible=0
+
+[Panels]
+navigate_with_arrows=true

@@ -1,0 +1,15 @@
+# Calculate format=kde
+
+[Midnight-Commander]
+skin=modarin256root-defbg.ini
+pause_after_run=2
+use_internal_edit=0
+
+[Layout]
+message_visible=0
+keybar_visible=0
+menubar_visible=0
+
+[Panels]
+navigate_with_arrows=true
+
