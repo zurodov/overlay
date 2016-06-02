@@ -11,6 +11,7 @@ app-admin/conky
 dev-db/oracle-instantclient-sqlplus
 dev-java/oracle-jdk-bin
 #media-gfx/nomacs
-#?ini(hr_virtual)==virtualbox#
+#?hr_virtual==virtualbox#
+# for virtualbox guest
 app-emulation/virtualbox-guest-additions
-#ini#
+#hr_virtual#
