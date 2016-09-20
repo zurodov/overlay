@@ -1,0 +1,3 @@
+# Calculate comment=# chmod=0440
+
+%wheel	ALL=(ALL) NOPASSWD: ALL
