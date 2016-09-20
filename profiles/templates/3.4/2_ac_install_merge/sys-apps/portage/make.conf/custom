@@ -1,3 +1,7 @@
+
+
+MAKEOPTS="-j3"
+
 INPUT_DEVICES="evdev keyboard mouse synaptics wacom"
 
 ALSA_CARDS="hda-intel intel8x0 usb-audio"
