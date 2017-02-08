@@ -1,7 +1,8 @@
 # vorax required
 app-editors/vim ruby python
 # conky required
-app-admin/conky apcupsd iostats weather-metar weather-xoap
+app-admin/conky apcupsd iostats 
+##weather-metar weather-xoap
 # timer-applet required
 media-libs/libcanberra sound
 xfce-base/xfce4-settings libcanberra
