@@ -10,7 +10,6 @@ app-shells/bash-completion
 app-misc/mc
 app-editors/vim
 app-admin/sudo
-app-portage/gentoolkit-dev
 app-portage/portage-utils
 sys-apps/hdparm
 app-admin/testdisk
