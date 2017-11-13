@@ -106,7 +106,7 @@ www-client/links
 mail-client/claws-mail
 net-p2p/deluge
 net-im/pidgin
-net-im/skype
+net-im/skypeforlinux
 net-irc/hexchat
 #
 # multimedia
@@ -126,11 +126,11 @@ net-analyzer/nmap
 net-analyzer/traceroute
 app-text/wgetpaste
 net-misc/youtube-dl
-net-misc/tightvnc
+net-misc/tigervnc
 net-firewall/shorewall
 net-misc/ntp
 net-misc/networkmanager
-net-misc/openvpn
+net-vpn/openvpn
 net-dialup/pptpclient
 net-misc/whois
 net-ftp/vsftpd
