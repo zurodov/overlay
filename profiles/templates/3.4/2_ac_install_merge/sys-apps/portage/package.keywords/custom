@@ -1,6 +1,0 @@
-# required by app-admin/conkyforecast
-##=app-admin/conkyforecast-2.24-r1 ~amd64
-
-# required by jdk/jre-1.8.x
-=virtual/jdk-1.8.0 ~amd64
-=virtual/jre-1.8.0 ~amd64

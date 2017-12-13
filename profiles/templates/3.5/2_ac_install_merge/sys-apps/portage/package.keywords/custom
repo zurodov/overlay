@@ -1,0 +1,3 @@
+# required by jdk/jre-1.8.x
+=virtual/jdk-1.8.0 ~amd64
+=virtual/jre-1.8.0 ~amd64
