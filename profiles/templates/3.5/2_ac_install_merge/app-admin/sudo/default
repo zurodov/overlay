@@ -1,3 +1,5 @@
 # Calculate comment=# chmod=0440
 
+Defaults	env_reset
+
 %wheel	ALL=(ALL) NOPASSWD: ALL
