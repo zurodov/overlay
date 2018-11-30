@@ -5,11 +5,13 @@ app-shells/gentoo-bashcomp
 #net-dns/noip-updater
 #sys-power/apcupsd
 app-admin/conky
-#app-emulation/wine
 #app-emulation/winetricks
 #app-emulation/q4wine
 dev-db/oracle-instantclient-sqlplus
 dev-java/oracle-jdk-bin
+dev-db/pspg
+sys-apps/the_silver_searcher
+app-text/tree
 #?hr_virtual==virtualbox#
 # for virtualbox guest
 app-emulation/virtualbox-guest-additions
