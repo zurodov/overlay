@@ -1,0 +1,8 @@
+# Calculate format=world name=world ini(overlay-zurodov.world)<23
+
+#-ini(overlay-zurodov.world,23)-#
+
+#?in(os_linux_pkglist, CLDZ)!=#
+!net-misc/openvpn
+net-vpn/openvpn
+#in#

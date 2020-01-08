@@ -1,0 +1,8 @@
+# Calculate format=world name=world ini(overlay-zurodov.world)<25
+
+#-ini(overlay-zurodov.world,25)-#
+
+#?in(os_linux_pkglist, CLDZ)!=#
+app-text/dos2unix
+app-text/tree
+#in#

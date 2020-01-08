@@ -2,7 +2,6 @@
 #app-emulation/virtualbox-additions
 media-gfx/darktable
 app-shells/gentoo-bashcomp
-#net-dns/noip-updater
 #sys-power/apcupsd
 app-admin/conky
 #app-emulation/winetricks
@@ -11,7 +10,8 @@ dev-db/oracle-instantclient-sqlplus
 dev-java/oracle-jdk-bin
 dev-db/pspg
 sys-apps/the_silver_searcher
-app-text/tree
+dev-db/postgresql
+media-gfx/blender
 #?hr_virtual==virtualbox#
 # for virtualbox guest
 app-emulation/virtualbox-guest-additions
