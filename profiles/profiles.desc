@@ -11,7 +11,6 @@
 amd64		CLDZ/amd64    					stable
 amd64		Notebook-X/amd64				stable
 amd64		Notebook-Y/amd64				stable
-amd64		Test-X/amd64	    			stable
+amd64		Test-X/amd64	    				stable
 
 # vim: set ts=8
-

@@ -6,3 +6,11 @@ app-admin/conky apcupsd iostats
 # timer-applet required
 media-libs/libcanberra sound
 xfce-base/xfce4-settings libcanberra
+# steam kernel flag
+sys-kernel/calculate-sources fsync
+# vim c-ide required
+##sys-devel/llvm clang
+# Этот файл будет перенесён при установке CLDZ
+dev-lang/python tk
+media-gfx/darktable CPU_FLAGS_X86: -sse3
+
